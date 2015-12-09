@@ -2,4 +2,17 @@ body{
   /* Don't worry about these properties just yet, they will make more sense later! */
   width:50%;
   margin:auto;
+  background-color: blue;
 }
+
+h1{
+  background-color: yellow;
+  color: 262980;
+}
+
+#picture{
+  width: 500px;
+}
+
+
+
