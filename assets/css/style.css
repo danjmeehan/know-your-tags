@@ -2,17 +2,20 @@ body{
   /* Don't worry about these properties just yet, they will make more sense later! */
   width:50%;
   margin:auto;
-  background-color: blue;
+  background-color: #D5D3ED;
 }
 
-h1{
-  background-color: yellow;
-  color: 262980;
+h1 {
+  text-align: center;
+  color: #3930AE;
+  font-family: Verdana;  
 }
 
 #picture{
   width: 500px;
 }
+
+
 
 
 
