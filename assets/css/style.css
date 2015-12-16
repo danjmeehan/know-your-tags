@@ -3,18 +3,37 @@ body{
   width:50%;
   margin:auto;
   background-color: #D5D3ED;
+
 }
 
 h1 {
   text-align: center;
   color: #3930AE;
-  font-family: Verdana;  
+  font-family: "Verdana";
 }
 
 #picture{
-  width: 500px;
+  width: 100%;
 }
 
+table {
+  border-style: solid;
+}
+
+.header {
+  width: 50%;
+  background-color:yellow;
+  display: inline-block;
+  height:100px;
+}
+
+.weather{
+  width: 50%;
+  background-color: purple;
+  display: inline-block;
+  height:100px;
+  float: right;
+}
 
 
 
