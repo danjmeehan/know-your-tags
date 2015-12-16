@@ -22,14 +22,14 @@ table {
 
 .header {
   width: 50%;
-  background-color:yellow;
+  /*background-color:yellow;*/
   display: inline-block;
   height:100px;
 }
 
 .weather{
   width: 50%;
-  background-color: purple;
+  /*background-color: purple;*/
   display: inline-block;
   height:100px;
   float: right;
